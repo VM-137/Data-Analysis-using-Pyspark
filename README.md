@@ -1,4 +1,7 @@
 ## Data-Analysis-using-Pyspark
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VM-137/Data-Analysis-using-Pyspark/blob/main/Data_Analysis_using_Pyspark.ipynb)
+
 * Prepare the Google Colab for distributed data processing
 * Mounting our Google Drive into Google Colab environment
 * Importing first file of our Dataset (1 Gb) into pySpark dataframe
